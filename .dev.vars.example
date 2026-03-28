@@ -1,0 +1,5 @@
+# Your Wiki.js instance URL (e.g., https://wiki.example.com)
+WIKI_JS_BASE_URL=your-wikijs-base-url
+
+# API Key from Wiki.js (Settings → API Keys)
+WIKI_JS_API_KEY=your-wikijs-api-key
